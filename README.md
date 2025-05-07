@@ -61,10 +61,11 @@ Here are some ideas to get you started:
 ## 🌱 Currently Exploring
 
 - gRPC between internal microservices  
-- Redis queue for async task handling
-- Actor model in backend development
+- Redis queue for async task handling  
+- Actor model in backend development  
 - Clean system design that scales  
-- Automation with Go
+- Automation with Go  
+- Rust for beginners  
 
 ---
 
