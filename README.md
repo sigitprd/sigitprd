@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ## 📫 Let's Connect
 
 - 📧 Email: [sigitpriadi23@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/sigit-priadi-97b987192](https://linkedin.com/in/sigit-priadi-97b987192)
+- 💼 LinkedIn: [linkedin.com/in/sigit-priadi](https://linkedin.com/in/sigit-priadi-97b987192)
 <!--
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 - 🌐 Blog/Portfolio: [yourdomain.com](https://yourdomain.com)
