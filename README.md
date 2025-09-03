@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Go (Golang), SQL, PHP
+- **Languages:** Go (Golang), SQL, PHP. Golang is My Core.
 - **Backend:** RESTful APIs, gRPC (experimental), Microservices
 - **Tools & Platforms:** Docker, PostgreSQL, Redis, Amazon S3, GitHub Actions
 - **Cloud & Infra:** AWS (S3, EC2, IAM), Linux, CI/CD, Monitoring
