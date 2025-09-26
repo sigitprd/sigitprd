@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm Sigit 👋</h1>
+<h1 align="center">Hi there All, I'm Sigit 👋</h1>
 <p align="center">A backend engineer with a passion for clean systems and performant architectures.</p>
 
 <p align="center">
